@@ -1,5 +1,5 @@
 # Site Settings
-title 'Lying Toad Brewery Blog :frog: :beer:'
+title: 'Lying Toad Brewery Blog :frog: :beer:'
 description: 'Blog from a home brewer'
 url: 'http://lyingtoad.github.io' # the base hostname & protocol for your site
 footer_text: 'This text is footer text. Footer text goes here.'
